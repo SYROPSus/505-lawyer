@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/SYROPSus/505-lawyer)
   ![GitHub stars](https://img.shields.io/github/stars/SYROPSus/505-lawyer?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/SYROPSus/505-lawyer?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SYROPSus_?style=social)](https://x.com/intent/follow?screen_name=SYROPSus)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SYROPSus?style=social)](https://x.com/intent/follow?screen_name=SYROPSus)
   [![YouTube Video Views](https://img.shields.io/youtube/views/pIgMTd8ZFxY?style=social)](https://www.youtube.com/@SYROPSusa)
 
   <br />
