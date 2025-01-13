@@ -1,5 +1,5 @@
-Barber - Barbers & Hair Cutting
-This is a barber html template made by codewithsadee
+Lawyer - Lawyers & Hair Cutting
+This is a Lawyer html template made by codewithsadee
 
 
 
@@ -18,7 +18,7 @@ Sunday - Friday, 08 am - 09 pm
 <ion-icon name="logo-youtube"></ion-icon>
 <ion-icon name="chatbubble-ellipses-outline"></ion-icon>
 
-Barber
+Lawyer
 Hair Salon
 
 Home
@@ -38,7 +38,7 @@ Appointment
 
 #---------- HERO ----------#
 
-Barbers & Hair Cutting
+Lawyers & Hair Cutting
 
 Sit amet consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua suspendisse ultrices gravida
 
@@ -159,7 +159,7 @@ alt = Hair Cutting
 
 Hair Cutting
 
-Barbers & Salon Services
+Lawyers & Salon Services
 
 aria-label="Read more"
 
@@ -192,7 +192,7 @@ Appointment Now
 
 #---------- FOOTER ----------#
 
-Barber
+Lawyer
 Hair Salon
 
 placeholder = Enter Your Email
